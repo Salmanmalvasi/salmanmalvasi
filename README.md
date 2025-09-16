@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Salman 👋
 
-<!--
-**Salmanmalvasi/salmanmalvasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who loves building things with code, learning new tools, and solving problems.  
+Currently learning app development, full-stack, and preparing for Google Summer of Code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+### 🔥 Top GitHub stats
+![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanmalvasi&show_icons=true&theme=radical&count_private=true)
+
+### 🧭 Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanmalvasi&layout=compact&theme=radical)
+
+### 🔁 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmanmalvasi&theme=radical)
+
+---
+
+## 🚀 Quick links
+[![Website](https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge)](https://salmanmalavsi.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman-blue?style=for-the-badge)](https://www.linkedin.com/in/salmanmalvasi)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=salmanmalvasi&theme=radical)
+
+---
+
+## 📈 Activity Graph
+![activity graph](https://activity-graph.herokuapp.com/graph?username=salmanmalvasi&theme=react-dark&area=true)
+
+---
+
+## ✨ What I'm learning
+- Android / Flutter app development  
+- Full-stack development (React / Node / Firebase)  
+- Machine learning basics & Python projects  
+
+---
+
+## 💬 Say hello
+Feel free to open an issue or DM me on LinkedIn — I love collaborating.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salmanmalvasi&color=blue" alt="profile views"/>
+</p>
