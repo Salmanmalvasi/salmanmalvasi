@@ -19,13 +19,14 @@ Currently learning app development, full-stack, and preparing for Google Summer 
 ---
 
 ## 🚀 Quick links
-[![Website](https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge)](https://salmanmalvasi.github.io/)
+[![Website](https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge)](https://your-portfolio.example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman-blue?style=for-the-badge)](https://www.linkedin.com/in/salmanmalvasi)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge)](https://twitter.com/yourhandle)
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=salmanmalvasi&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=salmanmalvasi&theme=radical&no-frame=true&no-bg=true&margin-w=15)
 
 ---
 
@@ -42,7 +43,7 @@ Currently learning app development, full-stack, and preparing for Google Summer 
 ---
 
 ## 💬 Say hello
-Feel free to open an issue or DM me on LinkedIn — I love collaborating.
+Feel free to open an issue or DM me on LinkedIn — I love collaborating and mentoring.
 
 ---
 
