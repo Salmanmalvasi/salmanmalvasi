@@ -19,19 +19,19 @@ Currently learning app development, full-stack, and preparing for Google Summer 
 ---
 
 ## 🚀 Quick links
-[![Website](https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge)](https://your-portfolio.example.com)
+[![Website](https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge)](https://salmanmalvasi.github.io/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman-blue?style=for-the-badge)](https://www.linkedin.com/in/salmanmalvasi)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge)](https://twitter.com/yourhandle)
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=salmanmalvasi&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=salmanmalvasi&theme=radical&no-frame=true&no-bg=true&margin-w=15&rank=-C,-B,-A)
 
 ---
 
 ## 📈 Activity Graph
 ![Salman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salmanmalvasi&theme=react-dark&area=true&hide_border=true)
+
 ---
 
 ## ✨ What I'm learning
