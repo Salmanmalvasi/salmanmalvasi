@@ -19,7 +19,7 @@ Currently learning app development, full-stack, and preparing for Google Summer 
 ---
 
 ## 🚀 Quick links
-[![Website](https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge)](https://salmanmalavsi.github.io/)
+[![Website](https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge)](https://salmanmalvasi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman-blue?style=for-the-badge)](https://www.linkedin.com/in/salmanmalvasi)
 
 ---
