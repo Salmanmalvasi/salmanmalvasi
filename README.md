@@ -31,8 +31,7 @@ Currently learning app development, full-stack, and preparing for Google Summer 
 ---
 
 ## 📈 Activity Graph
-![activity graph](https://activity-graph.herokuapp.com/graph?username=salmanmalvasi&theme=react-dark&area=true)
-
+![Salman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salmanmalvasi&theme=react-dark&area=true&hide_border=true)
 ---
 
 ## ✨ What I'm learning
