@@ -1,51 +1,44 @@
-# Hi, I'm Salman 👋
+# Hi, I'm Salman 🚀  
 
-I'm a Computer Science student who loves building things with code, learning new tools, and solving problems.  
-Currently learning app development, full-stack, and preparing for Google Summer of Code.
+💻 Computer Science student @ VIT | 🌱 Building projects that solve real problems | 🎯 Preparing for **Google Summer of Code 2026**  
 
----
-
-## 📊 GitHub Stats
-
-### 🔥 Top GitHub stats
-![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanmalvasi&show_icons=true&theme=radical&count_private=true)
-
-### 🧭 Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanmalvasi&layout=compact&theme=radical)
-
-### 🔁 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmanmalvasi&theme=radical)
+⚡ I love exploring **app development, full-stack, and ML**, and I enjoy turning ideas into products.  
 
 ---
 
-## 🚀 Quick links
-[![Website](https://img.shields.io/badge/Website-portfolio-blue?style=for-the-badge)](https://salmanmalvasi.github.io/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman-blue?style=for-the-badge)](https://www.linkedin.com/in/salmanmalvasi)
+## 🔥 What I’m up to  
+- 📱 Working on **StudentCC App** (a community app for students)    
+- 📖 Learning **Flutter + Firebase full-stack**  
+- 🎯 Long-term: **Crack GSoC & publish impactful open-source projects**  
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=salmanmalvasi&theme=radical&no-frame=true&no-bg=true&margin-w=15&rank=-C,-B,-A)
+## 🛠️ Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,firebase,react,nodejs,js,cpp,java,mysql,git,github,vscode,androidstudio,figma&perline=8" />
+</p>
 
 ---
 
-## 📈 Activity Graph
-![Salman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salmanmalvasi&theme=react-dark&area=true&hide_border=true)
+## 📊 GitHub Insights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanmalvasi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanmalvasi&theme=tokyonight&hide_border=true" height="160"/>
+</p>  
 
 ---
 
-## ✨ What I'm learning
-- Android / Flutter app development  
-- Full-stack development (React / Node / Firebase)  
-- Machine learning basics & Python projects  
+## 🌍 Connect with me  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-salmanmalvasi.github.io-blue?style=for-the-badge)](https://salmanmalvasi.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman%20Malvasi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salmanmalvasi)  
 
 ---
 
-## 💬 Say hello
-Feel free to open an issue or DM me on LinkedIn — I love collaborating and mentoring.
+## ✨ Fun fact  
+⚡ When I’m not coding, you’ll find me exploring experimenting with **AI hacks**.  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanmalvasi&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=salmanmalvasi&color=blue&style=flat-square" alt="profile views"/>
 </p>
